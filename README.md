@@ -1,29 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>User Behavior Insights - README</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-        }
-        h1, h2, h3 {
-            color: #333;
-        }
-        pre {
-            background-color: #f4f4f4;
-            padding: 10px;
-            border-radius: 5px;
-            overflow-x: auto;
-        }
-    </style>
-</head>
-<body>
 
-<h1>User Behavior Insights</h1>
+<h1>Screen Time Analysis</h1>
 
 <h2>Overview</h2>
 <p>This project analyzes user behavior and engagement metrics from an app, utilizing R for data visualization and exploration. It focuses on user demographics, screen usage patterns, enrollment status, and premium feature usage.</p>
